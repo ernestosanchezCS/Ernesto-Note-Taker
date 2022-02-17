@@ -1,14 +1,23 @@
 {
-  "name": "note-taker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "An application that is used to write and save notes. This application uses Express.js",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nicolewallace09/note-taker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nicolewallace09/note-taker/issues"
+    },
+    "homepage": "https://github.com/nicolewallace09/note-taker#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }

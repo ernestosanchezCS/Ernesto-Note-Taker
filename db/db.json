@@ -1,6 +1,24 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Hand in this Homework",
+      "text": "Due Thursday.\n",
+      "id": "0"
+    },
+    {
+      "title": "Add delete functionality",
+      "text": "By tomorrow",
+      "id": "1"
+    },
+    {
+      "title": "Learn another algorithm ",
+      "text": "FreeCodeCamp next one.\n",
+      "id": "2"
+    },
+    {
+      "title": "Reactivate insurance policy",
+      "text": "Expires next month.",
+      "id": "3"
     }
-]
+  ]
+}
