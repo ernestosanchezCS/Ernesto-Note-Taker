@@ -22,6 +22,10 @@ This application is called Ernesto Note Taker and can be used to write and save 
 
 AS a small business owner I WANT to be able to write and save notes SO THAT i can organize my thoughts and keep track of tasks i need to complete.
 
+## Live Application : Hosted by Heroku
+
+[Ernesto Note Taker App](https://note-taker-ernesto.herokuapp.com/)
+
 ## Demo Video
 
 https://drive.google.com/file/d/1nwRpOEP8FjQY27hikZ4N0cGWoJm5jNW1/view?usp=sharing
