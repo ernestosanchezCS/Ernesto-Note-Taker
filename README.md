@@ -49,11 +49,11 @@ npm install
 
 ## Usage
 
-To run tests, run the following command:
+To run, run the following command:
 
 ```
 
-node index.js
+npm start
 
 ```
 
