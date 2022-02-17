@@ -46,15 +46,15 @@ npm install
 ```
 
 ```
-npm install html-pdf
-```
 
 ## Usage
 
 To run tests, run the following command:
 
 ```
+
 node index.js
+
 ```
 
 ## License
@@ -72,3 +72,4 @@ There is no testing required
 ## Questions
 
 If you have any questions about the repo, open an issue or contact [ernestosanchezCS](https://github.com/ernestosanchezCS/) directly at ernestosanchez8888@gmail.com.
+```
