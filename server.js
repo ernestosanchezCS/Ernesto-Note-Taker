@@ -73,6 +73,15 @@ app.get("/notes", (req, res) => {
     res.sendFile(path.join(__dirname, "./public/notes.html"));
 });
 
+// Fallback route for when a user attempts to visit routes that don't exist
+app.get("*", (req, res) =>
+    res.send(
+        `404 cannot find page. Please start here: <a href="http://localhost:${PORT}/">http://localhost:${PORT}/</a>`
+    )
+);
+
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}!`);
 });
+
+//We
